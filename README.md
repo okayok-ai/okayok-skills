@@ -6,9 +6,21 @@ Each skill captures a workflow that worked in practice, stripped of anything per
 
 ## Skills
 
-| Skill | What it does |
+**New here? Start with [`product-lifecycle-overview`](skills/product-lifecycle-overview/) — it's the map that ties all the other skills together in order** (naming → site → deploy → SEO → submission → analytics → release → growth).
+
+| Skill | When to use it |
 | --- | --- |
-| [`x-growth`](skills/x-growth/SKILL.md) | Grow a Twitter/X account through genuine engagement: scout targets, draft value-first replies for approval, follow at a safe pace, build-in-public posting, and a daily cadence. |
+| [Product lifecycle overview](skills/product-lifecycle-overview/) | Launching or migrating a software product end-to-end and you want the big-picture sequence that ties the individual skills together. **Start here.** |
+| [Brand naming](skills/brand-naming/) | Naming a new software product or brand: check candidates for conflicts and pick a name that is brandable and good for SEO. |
+| [Scaffold or migrate a site from a shared template](skills/scaffold-or-migrate-site/) | Standing up a new product site from a shared template, or migrating an existing site onto it, including rebranding all names and copy. |
+| [Domain and deploy](skills/domain-and-deploy/) | Wiring a product site to a domain or subdomain: DNS, hosting, CI/CD, tag-based production releases, and deployment tokens. |
+| [Technical SEO setup](skills/technical-seo/) | On-page and technical SEO for a product site: titles, descriptions, canonical, a single H1, robots, sitemap, structured data, favicon and OG. |
+| [Search engine submission](skills/search-engine-submission/) | Verifying a site in Google Search Console and Bing Webmaster Tools, submitting sitemaps, and setting up IndexNow. |
+| [Web analytics setup](skills/web-analytics/) | Adding GA4 data streams and a session-analytics tool to a product site, unified under one property, and verifying they fire live. |
+| [Desktop app release](skills/desktop-app-release/) | Releasing a macOS (or cross-platform) desktop app: icon, code signing and notarization, GitHub Releases, auto-update, and faster signing. |
+| [Shared footer and product list](skills/shared-footer-product-list/) | One source of truth for cross-product footer links and an "Our Products" list that syncs across every site in a product family. |
+| [Operations and growth](skills/operations-growth/) | Ongoing operations and growth: audience channels, an account matrix, posting cadence, and community engagement to drive exposure. |
+| [X growth playbook](skills/x-growth/) | Growing a Twitter/X account through genuine engagement (value-first replies, reciprocal follows, build-in-public posts) with a human approval gate on everything posted. |
 
 ## Format
 
