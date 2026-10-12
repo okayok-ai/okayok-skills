@@ -1,5 +1,7 @@
 # Okayok Skills
 
+English | [简体中文](README.zh-CN.md)
+
 Open-source, reusable **skills** for AI agents – step-by-step playbooks written in the `SKILL.md` format that an agent (or a human) can follow to get a recurring job done reliably.
 
 Each skill captures a workflow that worked in practice, stripped of anything personal, so you can drop it into your own agent setup and adapt it.
