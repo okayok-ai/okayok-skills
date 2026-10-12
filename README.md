@@ -23,6 +23,7 @@ Each skill captures a workflow that worked in practice, stripped of anything per
 | [Shared footer and product list](skills/shared-footer-product-list/) | One source of truth for cross-product footer links and an "Our Products" list that syncs across every site in a product family. |
 | [Operations and growth](skills/operations-growth/) | Ongoing operations and growth: audience channels, an account matrix, posting cadence, and community engagement to drive exposure. |
 | [X growth playbook](skills/x-growth/) | Growing a Twitter/X account through genuine engagement (value-first replies, reciprocal follows, build-in-public posts) with a human approval gate on everything posted. |
+| [X operations](skills/x-operations/) | Running an X/Twitter account across growth stages (beginner, mid, late): replies, posting, cadence, and anti-ban safety limits. |
 
 ## Format
 
