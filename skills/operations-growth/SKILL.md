@@ -19,7 +19,7 @@ Ongoing work to get a launched product in front of people and build an audience.
 - Keep a pinned intro post (who you are + product lineup + a hook).
 - Repurpose: a release becomes a post, a short video, a changelog entry.
 
-## Engagement (see the x-growth skill for the detailed X loop)
+## Engagement (see the x-operations skill for the detailed X loop)
 - Reply to relevant posts with genuine value first, light product mention second.
 - Follow likely-to-reciprocate accounts in your niche at a safe pace.
 - Everything posts under the user's name — **draft and get approval before posting or following.**

@@ -1,11 +1,11 @@
 ---
 name: x-operations
-description: Use when running an X (Twitter) account over its whole life – picking the right growth stage (beginner, mid, late), writing high-quality replies, planning posts, and staying under X's limits so the account is never rate-limited or banned.
+description: Use when running or growing an X (Twitter) account over its whole life – picking the right growth stage (beginner, mid, late), writing high-quality replies, planning posts, and staying under X's limits so the account is never rate-limited or banned.
 ---
 
 # X (Twitter) account operations
 
-A staged operating manual for an X account. It is the umbrella for everything you do on X: growing followers, replying, posting, and staying safe. For the day-to-day engagement loop with an approval gate, see [`x-growth`](../x-growth/).
+A staged operating manual for an X account. It is the umbrella for everything you do on X: growing followers, replying, posting, and staying safe.
 
 **Golden rules**
 - Human in the loop: the owner approves every reply and post that goes out under their name.
@@ -29,6 +29,7 @@ A staged operating manual for an X account. It is the umbrella for everything yo
 
 ## 2. Cross-stage references
 
+- [daily-loop.md](daily-loop.md) – the day-to-day loop: inputs, scouting, drafts → owner approval → post, follows, scheduled routine.
 - [replying.md](replying.md) – how to write non-repetitive, high-quality replies.
 - [posting.md](posting.md) – what to post, cadence, best times, pinned intro post.
 - [safety.md](safety.md) – official limits, safe ranges, automation red flags, stop signals, weekly cleanup.
