@@ -22,7 +22,7 @@
 | [桌面应用发版](skills/desktop-app-release/) | 发布 macOS（或跨平台）桌面应用：图标、代码签名与公证、GitHub Releases、自动更新，以及加速签名。 |
 | [共享页脚与产品列表](skills/shared-footer-product-list/) | 为跨产品的页脚链接和“我们的产品”列表维护单一数据源，在同一产品家族的所有网站间同步。 |
 | [运营与增长](skills/operations-growth/) | 持续的运营与增长：受众渠道、账号矩阵、发帖节奏和社区互动，提升曝光。 |
-| [X 运营](skills/x-operations/) | 分阶段（新手、中期、后期）运营 X/Twitter 账号：带人工审批的每日互动流程、回复、发帖节奏与防封安全上限。 |
+| [X 运营](skills/x-operations/) | 分阶段运营 X/Twitter 账号：写能换来作者回复的评论、带人工审批的每日流程、发帖节奏与防封安全上限。 |
 
 ## 格式
 

@@ -1,13 +1,12 @@
 # Mid stage (1k – 10k followers)
 
-> Outline – expand with experience.
+Goal: followers who come for the content, not for a follow-back.
 
-Goal: move from "follow-for-follow" to followers who come for your content.
-
-- **Content pillars (3–4)**: e.g. build-in-public updates, lessons/tips in your niche, tools/opinions, personal story. Rotate them.
-- **Threads**: 1–2 per week; strong first line, one idea per post, end with a summary + soft CTA.
-- **Build-in-public cadence**: weekly progress post (metrics you're comfortable sharing, what shipped, what failed).
-- **Engage bigger accounts**: pick 10–20 accounts 5–50× your size; be early and genuinely useful in their replies.
-- **Reduce follow-backs**: shift volume from follows to replies; unfollow inactive accounts.
-- **Measure**: profile visits → follows per post; double down on formats that convert.
-- TODO: newsletter / community capture, Spaces, cross-posting.
+- **Content pillars (3–4)**: build-in-public, one concrete lesson, a tool or opinion, a personal story. Rotate them. One reader, one idea.
+- **Default post**: a single post that holds attention (a number, a decision, a failure). Threads are optional, 0–1 per week, not the daily format. Test one native short video a week if you have a real screen recording.
+- **Build-in-public**: one weekly progress post (metrics you're willing to share, what shipped, what failed).
+- **Bigger accounts**: keep a list of 10–20 accounts about 5–50× your size whose readers overlap yours. Reply early, while the author is still in the thread.
+- **Communities**: join 3–5 niche ones. For about two weeks, post useful notes only — no product link. A Community is how a small account reaches people the main feed won't show yet.
+- **Follows**: mostly stop 互关. Unfollow inactive accounts on the weekly cleanup cadence.
+- **Measure**: author replies and profile visits → follows per post. Repeat formats that convert. A like-only post is a miss.
+- **Capture**: one bio link (product or a single page), pinned post is the best artifact.
