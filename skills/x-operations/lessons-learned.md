@@ -9,14 +9,14 @@
 ## 100 actions at 10 s spacing → rate-limited after ~15 follows
 - **What happened**: an account tried ~100 reply+follow actions in one evening at ~10 s intervals, with two scripts running at the same time. After ~15 follows X showed "You are rate limited" (你受到速度限制). The replies the scripts logged as "sent" never actually appeared on the account.
 - **Lessons**:
-  - Fixed short intervals look like a bot; use random 60–180 s and small batches.
-  - Run **one script/session at a time**.
+  - Fixed short intervals look like a bot; replies are 45–120 s apart (see [schedule.md](schedule.md)).
+  - Sends stay serial through one shared timestamp lock.
   - **Verify each reply is visible** before counting it; a script's success log is not proof.
-  - After a rate limit, do not empty the rest of the day into one retry. Probe with one action (15 min, then 30, then 60) and write the result in the log below.
+  - After a rate limit, write the stop file for 24 h. Do not send a probe. Half caps after it expires, until the next clean day (see [schedule.md](schedule.md)).
 
 ## Rate-limit probe log
 
-One row per test. This is how the recovery time gets measured. Do not skip a failed test.
+Historical rows from when recovery was measured with probes. The current rule is the 24 h stop file in [schedule.md](schedule.md). Do not send a probe while that file is active.
 
 | Time (Shanghai) | Action | Result | Next wait |
 | --- | --- | --- | --- |

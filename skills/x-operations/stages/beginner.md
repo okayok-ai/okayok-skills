@@ -24,10 +24,10 @@ Goal: look like a real, interesting person in one niche, and get the first few h
 - Reply to their actual post first, then follow. They follow back from the notification; they do not read the profile (profile visits stayed ~86 across 3 months while followers hit ~190).
 - Only accounts that still post. Skip empty follow-farms.
 - Pace: inside the daily follow cap, spread out. The same account was rate-limited the night it fired follows and replies every ~10 seconds. See [../safety.md](../safety.md).
-- After 7 days, unfollow non-reciprocators (≤30–50 per session, never the same day you followed).
+- After 7 days, list non-reciprocators and ask the owner before unfollowing. Never unfollow the same day you followed.
 
 ## Daily safe limits (beginner)
-Caps, clock, and the half-pace after a rate limit: [../schedule.md](../schedule.md). Same sentence every reply is a cooldown, not a tactic. Random 60–180 s. Never a second session at the same time.
+Caps, clock, and the half-pace after a rate limit: [../schedule.md](../schedule.md). Same sentence every reply is a cooldown, not a tactic. Replies are 45–120 s apart. Sends share one timestamp lock.
 
 ## Exit criteria
 ~1k followers, a few posts with real conversations, a clear niche → move to [mid.md](mid.md).

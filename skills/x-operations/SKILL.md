@@ -48,9 +48,9 @@ A staged operating manual for an X account. It is the umbrella for everything yo
 Follow the clock and the caps in [schedule.md](schedule.md). A scheduled run only drafts. Post, reply, like, or follow after the owner approves that batch.
 
 1. Check account health first. Any stop signal in [safety.md](safety.md) ends the day.
-2. Spread 6–10 action passes from 09:00–23:30. A soft rate limit starts a one-action probe, not a 24 h stop. Details are in the schedule.
+2. Spread batches through the day and overnight on the language clock in [schedule.md](schedule.md). A page warning writes a 24 h stop file; a single "something went wrong" toast is checked on the Replies tab before that file is written. Details are in the schedule.
 
-Weekly: review what drove follows, unfollow non-reciprocators (see safety.md), update this skill with lessons.
+Weekly: review what drove follows. Ask the owner before any unfollow (see safety.md).
 
 ## Placeholders
 
