@@ -10,7 +10,7 @@ description: >-
 Ship a signed, notarized desktop app that users can download and that auto-updates.
 
 ## Icon & branding
-- Generate the app icon in the family style, at all required sizes; apply to the app bundle, the site favicon/logo, OG, and screenshots.
+- Generate the app icon with the family-mark skill, at all required sizes; apply to the app bundle, the site favicon/logo, OG, and screenshots.
 
 ## Build & sign (macOS)
 1. Bump the version in the app manifest; add a release-notes line.

@@ -20,6 +20,7 @@
 | [提交搜索引擎](skills/search-engine-submission/) | 在 Google Search Console 和 Bing Webmaster Tools 验证网站、提交 sitemap，并配置 IndexNow。 |
 | [网站数据分析配置](skills/web-analytics/) | 为产品网站接入 GA4 数据流和会话分析工具，统一到一个媒体资源下，并验证数据实时上报。 |
 | [桌面应用发版](skills/desktop-app-release/) | 发布 macOS（或跨平台）桌面应用：图标、代码签名与公证、GitHub Releases、自动更新，以及加速签名。 |
+| [家族字标](skills/family-mark/) | 按已登记的风格画 Okayok 家族应用图标。七个 `*okay` 产品附有字标示例；新风格加在旁边，不改现有示例。 |
 | [共享页脚与产品列表](skills/shared-footer-product-list/) | 为跨产品的页脚链接和“我们的产品”列表维护单一数据源，在同一产品家族的所有网站间同步。 |
 | [运营与增长](skills/operations-growth/) | 持续的运营与增长：受众渠道、账号矩阵、发帖节奏和社区互动，提升曝光。 |
 | [X 运营](skills/x-operations/) | 分阶段运营 X/Twitter 账号：写能换来作者回复的评论、带人工审批的每日流程、发帖节奏与防封安全上限。 |

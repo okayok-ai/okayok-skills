@@ -16,7 +16,7 @@ The end-to-end sequence for taking a software product from an idea to a launched
 4. **Technical SEO** — titles, descriptions, canonical, a single H1, robots, sitemap, structured data, favicon/OG. Each site independent, no duplicate content. See the technical-seo skill.
 5. **Search engine submission** — Google Search Console, Bing Webmaster, IndexNow. See the search-engine-submission skill.
 6. **Web analytics** — GA4 + a session-analytics tool, unified under one property, verified live. See the web-analytics skill.
-7. **Desktop app release** (if there's a desktop app) — icon, signing/notarization, releases, auto-update. See the desktop-app-release skill.
+7. **Desktop app release** (if there's a desktop app) — icon from the family-mark skill, signing/notarization, releases, auto-update. See the desktop-app-release skill.
 8. **Shared footer & product list** — one source of truth for cross-product links. See the shared-footer-product-list skill.
 9. **Operations & growth** — ongoing engagement, account matrix, posting cadence. See the operations-growth skill.
 

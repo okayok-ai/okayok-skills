@@ -1,0 +1,22 @@
+{
+  "id": "monogram",
+  "canvas": 1024,
+  "space": 512,
+  "tile": { "x": 100, "y": 100, "size": 824, "radius": 185 },
+  "colors": { "background": "#0B0C10", "ink": "#F5F5F0" },
+  "cap": { "font": "Didot-Bold", "height": 250 },
+  "script": {
+    "font": "SnellRoundhand-Black",
+    "tallLetters": ["l", "i", "t", "f", "h", "b", "k"],
+    "tallScale": 0.74,
+    "normalScale": 0.5,
+    "narrowCaps": ["L", "I", "T", "J"],
+    "overlapNarrow": 0.22,
+    "overlapTall": 0.36,
+    "overlapNormal": 0.58,
+    "baselineTall": -0.02,
+    "baselineNormal": 0.04,
+    "halo": 11
+  },
+  "lockup": { "maxWidth": 360, "maxHeight": 290, "centerX": 256, "centerY": 250 }
+}

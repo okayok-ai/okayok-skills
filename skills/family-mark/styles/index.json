@@ -1,0 +1,10 @@
+{
+  "default": "monogram",
+  "styles": [
+    {
+      "id": "monogram",
+      "title": "Didot monogram",
+      "dir": "styles/monogram"
+    }
+  ]
+}

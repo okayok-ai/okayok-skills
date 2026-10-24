@@ -20,6 +20,7 @@ Each skill captures a workflow that worked in practice, stripped of anything per
 | [Search engine submission](skills/search-engine-submission/) | Verifying a site in Google Search Console and Bing Webmaster Tools, submitting sitemaps, and setting up IndexNow. |
 | [Web analytics setup](skills/web-analytics/) | Adding GA4 data streams and a session-analytics tool to a product site, unified under one property, and verifying they fire live. |
 | [Desktop app release](skills/desktop-app-release/) | Releasing a macOS (or cross-platform) desktop app: icon, code signing and notarization, GitHub Releases, auto-update, and faster signing. |
+| [Family mark](skills/family-mark/) | Drawing an Okayok-family app icon in a registered style. The seven `*okay` products ship as monogram examples; new styles are added beside that one. |
 | [Shared footer and product list](skills/shared-footer-product-list/) | One source of truth for cross-product footer links and an "Our Products" list that syncs across every site in a product family. |
 | [Operations and growth](skills/operations-growth/) | Ongoing operations and growth: audience channels, an account matrix, posting cadence, and community engagement to drive exposure. |
 | [X operations](skills/x-operations/) | Running and growing an X/Twitter account across stages: replies that earn an author response, a daily loop with owner approval, posting cadence, and anti-ban safety limits. |
