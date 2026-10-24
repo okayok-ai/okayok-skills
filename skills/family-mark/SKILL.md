@@ -2,15 +2,15 @@
 name: Family mark
 description: >-
   Draw an Okayok-family app icon in a registered visual style. Use when
-  creating or updating marks for Browseokay, Designokay, Learnokay, Lightokay,
-  Protookay, Shotokay, or Slideokay, or when adding another icon style.
+  creating or updating marks for Browseokay, Designokay, Genokay, Learnokay,
+  Lightokay, Protookay, Shotokay, or Slideokay, or when adding another icon style.
 ---
 # Family mark
 
 One catalog of product names, many visual styles. The default style is `monogram`. Do not invent a second letter pair for a name that is already in the catalog.
 
 ## Files
-- [catalog.json](catalog.json) — the seven `*okay` products and their marks. Okayok itself is not in this list.
+- [catalog.json](catalog.json) — the `*okay` products and their marks. Okayok itself is not in this list. Genokay's mark is `Ge`.
 - [styles/index.json](styles/index.json) — registered styles. `default` is the style to use when nobody names one.
 - `styles/<id>/style.json` — tokens for that style.
 - `styles/<id>/examples/` — checked-in renders. These are the reference, not a sketch.
@@ -42,6 +42,6 @@ Add one object to `catalog.json` with `slug`, `name`, and `mark`. Then render ev
 Add `styles/<id>/` with `style.json`, `examples/`, and a renderer script if the geometry is not the monogram script. Register it in `styles/index.json`. Do not change existing style folders or existing example pixels when adding a style. Do not change `default` unless the user says the new style replaces it.
 
 ## Do not
-- Restyle the Okayok parent mark as one of these seven.
+- Restyle the Okayok parent mark as one of these products.
 - Swap Lucide icons in for a family mark.
 - Edit an example PNG by hand. Change `placement` or `style.json`, then re-render.
