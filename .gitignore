@@ -8,3 +8,9 @@ node_modules/
 .env
 .env.*
 *.log
+
+# OS junk (Windows / macOS)
+.DS_Store
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
