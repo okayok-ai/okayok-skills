@@ -9,6 +9,7 @@
     { "slug": "shotokay", "name": "Shotokay", "mark": "Sh" },
     { "slug": "protookay", "name": "Protookay", "mark": "Pr" },
     { "slug": "slideokay", "name": "Slideokay", "mark": "Sl", "placement": { "scriptScale": 0.78, "overlap": 0.38, "baseline": -0.02 } },
-    { "slug": "genokay", "name": "Genokay", "mark": "Ge" }
+    { "slug": "genokay", "name": "Genokay", "mark": "Ge" },
+    { "slug": "memwork", "name": "Memwork", "mark": "Me", "placement": { "scriptScale": 0.5, "overlap": 0.55, "baseline": 0.02 } }
   ]
 }
